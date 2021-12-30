@@ -1,0 +1,52 @@
+.prt {
+    background-color: rgb(217, 226, 226);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.prr {
+    background-color: rgb(217, 226, 226);
+    margin :0 0 0 0;
+    text-align: center;
+
+}
+.textt {
+    text-align: center;
+}
+
+.center {
+    display: block;
+    text-align: -webkit-center;
+}
+.box1{
+    background-color: #7ee5da;
+    float:left ;
+    width: 37%;
+    padding: 0 0 0 0;
+    margin: 0px 3px;
+    height: 100px;
+}
+
+.box2 {
+    background-color: #70ccc2;
+    float:left;
+    width: 25%;
+    height: 100px;
+    padding: 0px 0 0 0;
+}
+.box3 {
+    background-color: #62b3aa;
+    float: left;
+    width: 37%;
+    margin: 0px 3px;
+    height: 100px;
+    overflow: clip;
+    
+}
+
+.dip{
+    text-align: center;
+    font-size: -1;
+    margin: 5px;
+    
+}
